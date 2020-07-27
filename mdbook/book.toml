@@ -1,0 +1,6 @@
+[book]
+authors = ["Paul Wright"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Convert mdbook to Antora"
