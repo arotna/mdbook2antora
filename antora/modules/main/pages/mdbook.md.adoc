@@ -1,0 +1,14 @@
+= mdbook publishing
+
+https://rust-lang.github.io/mdBook/[mdbook] is a static site generator that accepts markdown files.
+
+It's easy to use and flexible, including features like:
+
+* separating https://en.wikipedia.org/wiki/Separation_of_content_and_presentation[content from presentation]
+* a single simple file for navigation
+
+Besides Markdown/AsciiDoc differences:
+
+* less version support out-of-box
+* multi-component support requires configuration
+* navigation file requires maintenance

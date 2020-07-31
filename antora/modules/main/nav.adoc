@@ -1,0 +1,12 @@
+= Navigation
+
+xref:./index.adoc[Home]
+
+* xref:./mdbook.adoc[mdbook publishing]
+* xref:./arotna.adoc[Arotna publishing]
+* xref:./prerequisites.adoc[Before conversion]
+* xref:./converting.adoc[Converting your repo to Antora]
+ ** xref:./cloning.adoc[Clone your repo]
+ ** xref:./creating-antora.adoc[Creating Antora component]
+ ** xref:./creating-antora.adoc[Testing Antora component]
+* xref:./next-steps.adoc[Next steps]
