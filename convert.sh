@@ -1,5 +1,7 @@
+rm -r antora
 mkdir -p antora/modules/main/pages
 kramdoc mdbook/src/SUMMARY.md -o antora/modules/main/nav.adoc
+replace '.adoc' '.md.adoc' antora/modules/main/nav.adoc
 
 cd mdbook/src
 
@@ -15,4 +17,4 @@ find ./ -name "*.md" \
 cd ../../ 
 
 mv mdbook/src/*.adoc antora/modules/main/pages
- 
+

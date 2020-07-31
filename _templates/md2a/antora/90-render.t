@@ -1,0 +1,3 @@
+---
+sh: "./run-antora.sh"
+---

@@ -1,0 +1,6 @@
+name: md2b
+title: md2b
+version: 'latest'
+start_ROOT: main:index.adoc
+nav:
+- modules/main/nav.adoc
