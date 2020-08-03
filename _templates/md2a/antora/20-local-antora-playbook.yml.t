@@ -4,7 +4,7 @@ to:  antora/local-antora-playbook.yml
 site:
   title: <%= siteName %>
   # the 404 page and sitemap files only get generated when the url property is set
-  url: https://www.example.com
+  url: https://arotna.github.io/mdbook2antora/html/
   start_page: <%= siteName %>::index.adoc
 content:
   sources:
